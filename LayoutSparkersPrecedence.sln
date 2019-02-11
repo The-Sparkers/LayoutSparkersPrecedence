@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pages", "pages", "{2DF5D4EE-4EC2-4F92-BA96-CB7D47BD0187}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SparkerZ", "SparkerZ", "{2DF5D4EE-4EC2-4F92-BA96-CB7D47BD0187}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{CB63E339-2DC8-4DCA-AA7D-87E99BADAD55}"
+	ProjectSection(SolutionItems) = preProject
+		style.css = style.css
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CB63E339-2DC8-4DCA-AA7D-87E99BADAD55} = {2DF5D4EE-4EC2-4F92-BA96-CB7D47BD0187}
 	EndGlobalSection
 EndGlobal

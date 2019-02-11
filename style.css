@@ -1,0 +1,35 @@
+﻿body
+{
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+    overflow-x: hidden;
+    background: #fff;
+    color:burlywood;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+body a,
+.btn-agile,
+a {
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    text-decoration: none;
+}
+
+h6 {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    line-height: 1.8;
+    font-size: 1em;
+    color: #333;
+    font-weight: 500;
+    margin: 0;
+}

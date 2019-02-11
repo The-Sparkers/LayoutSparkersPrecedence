@@ -1,0 +1,13 @@
+﻿body
+{
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+    overflow-x: hidden;
+    background: #fff;
+    color:burlywood;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+/*head*/
